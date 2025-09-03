@@ -1,6 +1,8 @@
 # Myrceugenia SDM – Atlantic Forest
 
-This repository contains R scripts for species distribution models (SDMs) of two rare *Myrceugenia* species from the Atlantic Forest, Brazil.
+This repository contains R scripts for species distribution models (SDMs) of two rare *Myrceugenia* species from the Atlantic Forest, Brazil. 
+Article: Species distribution modeling of two rare endemic Myrtaceae from the Brazilian Atlantic Forest: challenges in conserving “invisible species”
+Authors: Ana Flávia Augustin, Duane Fernandes Lima, Fábio C. S. Vieira and Mayara Krasinski Caddah
 
 ## Repository content
 - R scripts for data processing, PCA, and SDM (Maxent via flexsdm)  
