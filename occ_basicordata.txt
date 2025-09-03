@@ -1,0 +1,14 @@
+"species"	"x"	"y"
+m_basicordata	-48.830	-26.256
+m_basicordata	-48.732	-26.189
+m_basicordata	-49.023	-26.096
+m_basicordata	-48.938	-26.151
+m_basicordata	-48.731	-26.188
+m_basicordata	-49.024	-26.098
+m_basicordata	-48.830	-26.260
+m_basicordata	-48.829	-26.258
+m_basicordata	-48.830	-26.258
+m_basicordata	-49.009	-26.137
+
+
+

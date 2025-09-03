@@ -1,0 +1,9 @@
+"species"	"x"	"y"
+m_joinvillensis	-48.973	-26.245
+m_joinvillensis	-48.953	-26.231
+m_joinvillensis	-48.993	-26.296
+m_joinvillensis	-48.920	-26.093
+m_joinvillensis	-49.057	-26.295
+m_joinvillensis	-49.002	-26.270
+
+
