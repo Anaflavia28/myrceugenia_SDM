@@ -4,7 +4,8 @@ This repository contains R scripts for species distribution models (SDMs) of two
 
 ## Repository content
 - R scripts for data processing, PCA, and SDM (Maxent via flexsdm)  
-- Raw occurrence data (see Dryad for full dataset)    
+- Raw occurrence data
+- PCA results with coefficients, variance and PCs used    
 
 ## Reproducibility
 Analyses were conducted in R 4.5.1 with the **flexsdm** package (v.1.3.6) and other supporting packages.  
