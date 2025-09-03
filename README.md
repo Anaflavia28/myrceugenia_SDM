@@ -11,8 +11,4 @@ Analyses were conducted in R 4.5.1 with the **flexsdm** package (v.1.3.6) and ot
 Spatial adjustments and maps were prepared in QGIS 3.28.7.  
 
 ## Data availability
-Raw datasets (occurrence records and PCA results) are available in Dryad: DOI [10.5061/dryad.jm63xsjpw].  
-All analysis scripts are provided here in this repository.
-
-## Contact
-Any questions, please contact afaugustin@gmail.com
+All analysis scripts are provided here in this repository, but if you have any questions, please contact afaugustin@gmail.com.
